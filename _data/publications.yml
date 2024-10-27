@@ -14,7 +14,7 @@ main:
     image: ./assets/img/attack_squared.png
 
   - title: "Binary Reward Labeling: Bridging Offline Preference and Reward-Based Reinforcement Learning"
-    authors: Yinglun Xu, David Zhu, <strong>Rohan Gumaste</strong>, Gagandeep Singh
+    authors: Yinglun Xu*, David Zhu*, <strong>Rohan Gumaste</strong>, Gagandeep Singh
     pdf: https://arxiv.org/pdf/2402.09695
     notes: Under Review.
     image: ./assets/img/brl_squared.png
