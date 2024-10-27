@@ -9,7 +9,7 @@ Welcome to my corner of the internet! I'm Rohan Gumaste and I'm currently an und
 
 - **Reinforcement Learning:** Offline RL, PBRL/RLHF, Robust RL, RLAIF
 - **Programming Languages:** Progam Synthesis, Grammar-Guided Code Generation
-- **Machine Learning:** Safety, Robustnes, Generalization Guarantees
+- **Machine Learning:** Safety, Robustness, Generalization Guarantees
 
 
 ## News
