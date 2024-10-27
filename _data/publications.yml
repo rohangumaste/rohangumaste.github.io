@@ -1,22 +1,27 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "IterGen: Iterative structured LLM generation"
+    authors: Shubham Ugare, <strong>Rohan Gumaste</strong>, Tarun Suresh, Gagandeep Singh, Sasa Misailovic
+    pdf: https://arxiv.org/pdf/2410.07295
+    image: ./assets/img/itergen_squared.png
+    notes: Under Review. 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Universal Black-Box Reward Poisoning Attack against Offline Reinforcement Learning"
+    authors: Yinglun Xu*, <strong>Rohan Gumaste*</strong>, Gagandeep Singh
+    pdf: https://arxiv.org/pdf/2406.10445
+    code: https://github.com/uiuc-focal-lab/ORL
+    notes: Under Review.
+    image: ./assets/img/attack_squared.png
+
+  - title: "Binary Reward Labeling: Bridging Offline Preference and Reward-Based Reinforcement Learning"
+    authors: Yinglun Xu, David Zhu, <strong>Rohan Gumaste</strong>, Gagandeep Singh
+    pdf: https://arxiv.org/pdf/2402.09695
+    notes: Under Review.
+    image: ./assets/img/brl_squared.png
+  
+  - title: "Two-Step Offline Preference-Based Reinforcement Learning with Constrained Actions"
+    authors: Yinglun Xu, Tarun Suresh, <strong>Rohan Gumaste, David Zhu</strong>, Ruirui Li, Zhengyang Wang, Haoming Jiang, Xianfeng Tang, Qingyu Yin, Monica Xiao Cheng, Qi Zeng, Chao Zhang, Gagandeep Singh
+    pdf: https://arxiv.org/pdf/2401.00330
+    notes: Under Review.
+    image: ./assets/img/prc_squared.png
+
