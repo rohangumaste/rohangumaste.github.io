@@ -20,7 +20,7 @@ main:
     image: ./assets/img/attack_squared.png
   
   - title: "Two-Step Offline Preference-Based Reinforcement Learning with Constrained Actions"
-    authors: Yinglun Xu, Tarun Suresh, <strong>Rohan Gumaste, David Zhu</strong>, Ruirui Li, Zhengyang Wang, Haoming Jiang, Xianfeng Tang, Qingyu Yin, Monica Xiao Cheng, Qi Zeng, Chao Zhang, Gagandeep Singh
+    authors: Yinglun Xu, Tarun Suresh, <strong>Rohan Gumaste</strong>, David Zhu, Ruirui Li, Zhengyang Wang, Haoming Jiang, Xianfeng Tang, Qingyu Yin, Monica Xiao Cheng, Qi Zeng, Chao Zhang, Gagandeep Singh
     pdf: https://arxiv.org/pdf/2401.00330
     notes: Under Review.
     image: ./assets/img/prc_squared.png
