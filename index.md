@@ -19,11 +19,11 @@ Previously, I worked at the Crowd Dynamics Laboratory under the supervision of P
 
 
 ## News
+- **[Jan. 2025]** Our paper on Itergen was accepted at ICLR '25
 - **[May. 2024]** Started as Undergrad RA at UIUC's ARC Lab
 - **[May. 2023]** Started as Undergrad RA at UIUC's FOCAL Lab
 - **[Aug. 2023]** Beginning research internship at Sandia National Labs 
-- **[Aug. 2022]** Started new position at CrowdDyanmicsLab
-- **[Sept. 2021]** Began my undergrad at the U of I!
+- **[Aug. 2022]** Started new position at the Crowd Dyanmics Lab
 
 {% include_relative _includes/publications.md %}
 
