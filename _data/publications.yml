@@ -5,6 +5,8 @@ main:
     conference_short: ICLR
     conference: The Thirteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2025. 
     pdf: https://arxiv.org/pdf/2410.07295
+    code: https://github.com/structuredllm/itergen
+    page: https://structuredllm.com/
     image: ./assets/img/itergen_squared.png
 
   - title: "Binary Reward Labeling: Bridging Offline Preference and Reward-Based Reinforcement Learning"
