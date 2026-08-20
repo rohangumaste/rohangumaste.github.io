@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Welcome to my corner of the internet! I'm Rohan Gumaste, a first year [EECS](https://www.eecs.mit.edu/) PhD student at MIT [CSAIL](https://csail.mit.edu), where I intend to work with Professor [Michael Carbin](https://people.csail.mit.edu/mcarbin/).
+Welcome to my corner of the internet! I'm Rohan Gumaste, a second year [EECS](https://www.eecs.mit.edu/) PhD student at MIT [CSAIL](https://csail.mit.edu), where I work with Professor [Michael Carbin](https://people.csail.mit.edu/mcarbin/). My current research studies the generative dynamics of diffusion and flow matching models. I also work on agent-driven C to Rust translation, with the goal of generating interrogable, deterministic translation witnesses.
 
-Recently I graduated from the University of Illinois Urbana-Champaign, where I earned a B.S. in [Statistics](https://stat.illinois.edu/) and [Computer Science](https://siebelschool.illinois.edu/).  
+I graduated from the University of Illinois Urbana-Champaign, where I earned a B.S. in [Statistics](https://stat.illinois.edu/) and [Computer Science](https://siebelschool.illinois.edu/).  
 
 During my undergrad, I worked at the FOCAL Lab with Professor [Gagandeep Singh](https://ggndpsngh.github.io/) on offline RL, PBRL and adversarial traning for RLHF, as well as applications in AI safety. I was also a part of the ARC lab where I worked with Professor [Sasa Misailovic](https://misailo.cs.illinois.edu/). Here, I researched program synthesis and code generation. Specifically we focused on constrained LLM decoding, with an emphasis on iterative grammar aligned methods. In an earlier project, I briefly worked on translating natural language to formal logic programs. 
 
