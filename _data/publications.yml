@@ -1,5 +1,12 @@
 main:
 
+  - title: "PROTOCOL: Late Interaction Retrieval for Protein Homolog Search"
+    authors: Gabrielle Cohn, <strong>Rohan Gumaste</strong>, Minh Hoang, Vihan Lakshman
+    pdf: https://openreview.net/attachment?id=n5HZ01EpNw&name=pdf
+    conference_short: ICML
+    conference: The 2026 Workshop on Generative and Agentic AI for Biology <strong>(GenBio)</strong> at ICML, Seoul, South Korea, 2026.
+    image: ./assets/img/protocol_squared.png
+
   - title: "IterGen: Iterative structured LLM generation"
     authors: Shubham Ugare, <strong>Rohan Gumaste</strong>, Tarun Suresh, Gagandeep Singh, Sasa Misailovic
     conference_short: ICLR
